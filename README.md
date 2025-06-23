@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Ekaterina!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a chemist 🧪 with a PhD 📖 who really wants to get into IT before 30 🇷🇺</h3>
+<h3 align="center">I'm a chemist 🧪 with a PhD 📖 who entered into IT before 30 🇷🇺</h3>
 
 <h4 align="center">I’m currently learning java and looking for a job👩🏻‍💻. Here you can see my pet-projects.</h4>
 
